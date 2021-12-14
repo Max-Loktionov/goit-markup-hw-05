@@ -613,7 +613,7 @@ a {
 }
 .client-link:hover,
 .client-link:focus {
-  border-color: #2196f3;
+  border-color: var(--accent-color);
 }
 
 .client-icon {
@@ -672,7 +672,7 @@ address {
 
 .studio-contacts-link-street:hover,
 .studio-contacts-link-street:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 .footer .studio-contacts-link {
   display: inline-block;
@@ -687,7 +687,7 @@ address {
 
 .studio-contacts-link:hover,
 .studio-contacts-link:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .soc-plus {
